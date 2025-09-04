@@ -1,0 +1,10 @@
+google-play-scraper==1.2.6
+pandas==2.2.2
+numpy==1.26.4
+tqdm==4.66.4
+python-dotenv==1.0.1
+sentence-transformers==2.7.0
+scikit-learn==1.4.2
+nltk==3.8.1
+yake==0.4.8
+matplotlib==3.9.0

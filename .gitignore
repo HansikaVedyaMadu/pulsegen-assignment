@@ -1,0 +1,17 @@
+ __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+venv/
+.venv/
+.env
+data/
+results/*
+!results/topics_*.json
+output/*
+!output/report_*.csv
+!output/report_*.png
+.DS_Store
+Thumbs.db
+.vscode/

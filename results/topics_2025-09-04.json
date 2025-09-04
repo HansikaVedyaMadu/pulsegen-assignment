@@ -1,0 +1,9922 @@
+{
+  "target_date": "2025-09-04",
+  "window_start": "2025-08-05",
+  "topics": [
+    {
+      "topic": "Amazing",
+      "phrases": [
+        "amazing",
+        "fantastic"
+      ],
+      "total": 1338,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Great",
+      "phrases": [
+        "excellent",
+        "great",
+        "wonderful"
+      ],
+      "total": 1319,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Good",
+      "phrases": [
+        "good",
+        "good."
+      ],
+      "total": 1293,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Nice",
+      "phrases": [
+        "nice"
+      ],
+      "total": 1162,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Awesome",
+      "phrases": [
+        "awesome"
+      ],
+      "total": 1106,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Goodd",
+      "phrases": [
+        "goodd"
+      ],
+      "total": 1079,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Cool",
+      "phrases": [
+        "cool"
+      ],
+      "total": 975,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Perfect",
+      "phrases": [
+        "perfect"
+      ],
+      "total": 972,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Fine",
+      "phrases": [
+        "fine"
+      ],
+      "total": 924,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Soo",
+      "phrases": [
+        "soo",
+        "sooo"
+      ],
+      "total": 812,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Decent",
+      "phrases": [
+        "decent"
+      ],
+      "total": 771,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bad",
+      "phrases": [
+        "bad",
+        "bad."
+      ],
+      "total": 734,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Hot",
+      "phrases": [
+        "hot"
+      ],
+      "total": 730,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Happy",
+      "phrases": [
+        "happy"
+      ],
+      "total": 687,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Told",
+      "phrases": [
+        "told"
+      ],
+      "total": 626,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Beautiful",
+      "phrases": [
+        "beautiful"
+      ],
+      "total": 467,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Cute",
+      "phrases": [
+        "cute"
+      ],
+      "total": 421,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Lovely",
+      "phrases": [
+        "lovely"
+      ],
+      "total": 374,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Delivery issue",
+      "phrases": [
+        "deliver",
+        "deliveries",
+        "delivering",
+        "delivery",
+        "delivery."
+      ],
+      "total": 333,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Brilliant",
+      "phrases": [
+        "brilliant"
+      ],
+      "total": 325,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "App",
+      "phrases": [
+        "app",
+        "app.",
+        "apps"
+      ],
+      "total": 288,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Tremendous",
+      "phrases": [
+        "tremendous"
+      ],
+      "total": 280,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Pretty",
+      "phrases": [
+        "pretty"
+      ],
+      "total": 265,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Sweet",
+      "phrases": [
+        "sweet"
+      ],
+      "total": 253,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Extremely",
+      "phrases": [
+        "extremely",
+        "highly"
+      ],
+      "total": 227,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Niceeee",
+      "phrases": [
+        "niceeee"
+      ],
+      "total": 215,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Damn",
+      "phrases": [
+        "damn"
+      ],
+      "total": 208,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Service",
+      "phrases": [
+        "service",
+        "service.",
+        "services"
+      ],
+      "total": 203,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Superb",
+      "phrases": [
+        "superb"
+      ],
+      "total": 201,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Nicee",
+      "phrases": [
+        "nicee"
+      ],
+      "total": 201,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Wooow",
+      "phrases": [
+        "wooow"
+      ],
+      "total": 194,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "घटिया",
+      "phrases": [
+        "घटिया"
+      ],
+      "total": 177,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Swiggy",
+      "phrases": [
+        "swigg",
+        "swiggy",
+        "swiggy."
+      ],
+      "total": 164,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Exact",
+      "phrases": [
+        "exact"
+      ],
+      "total": 161,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Super",
+      "phrases": [
+        "super"
+      ],
+      "total": 144,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Apppp",
+      "phrases": [
+        "apppp"
+      ],
+      "total": 139,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Fabulous",
+      "phrases": [
+        "fabulous"
+      ],
+      "total": 137,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "App,my",
+      "phrases": [
+        "app,my"
+      ],
+      "total": 120,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Worst",
+      "phrases": [
+        "worse",
+        "worst"
+      ],
+      "total": 115,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Outstanding",
+      "phrases": [
+        "outstanding"
+      ],
+      "total": 113,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Suitable",
+      "phrases": [
+        "suitable"
+      ],
+      "total": 108,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Impressed",
+      "phrases": [
+        "impressed",
+        "impressive"
+      ],
+      "total": 107,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Delivers",
+      "phrases": [
+        "delivers"
+      ],
+      "total": 106,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Application",
+      "phrases": [
+        "application"
+      ],
+      "total": 102,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Extraordinary",
+      "phrases": [
+        "exceptional",
+        "extraordinary"
+      ],
+      "total": 101,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Delivery partner rude",
+      "phrases": [],
+      "total": 94,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Ultra",
+      "phrases": [
+        "ultra"
+      ],
+      "total": 89,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Amazed",
+      "phrases": [
+        "amazed"
+      ],
+      "total": 89,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Froud",
+      "phrases": [
+        "froud"
+      ],
+      "total": 89,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Supre",
+      "phrases": [
+        "supre"
+      ],
+      "total": 87,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Gold",
+      "phrases": [
+        "gold"
+      ],
+      "total": 85,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Extreme",
+      "phrases": [
+        "extreme"
+      ],
+      "total": 85,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Refund / cancellation",
+      "phrases": [
+        "refund",
+        "refunded"
+      ],
+      "total": 84,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Fab",
+      "phrases": [
+        "fab"
+      ],
+      "total": 84,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Delicious",
+      "phrases": [
+        "delicious",
+        "tasty"
+      ],
+      "total": 84,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Big",
+      "phrases": [
+        "big",
+        "huge"
+      ],
+      "total": 83,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Awsome",
+      "phrases": [
+        "awsome"
+      ],
+      "total": 76,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Terrible",
+      "phrases": [
+        "awful",
+        "horrible",
+        "terrible"
+      ],
+      "total": 74,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Okk",
+      "phrases": [
+        "okk"
+      ],
+      "total": 68,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Zomato",
+      "phrases": [
+        "zomato"
+      ],
+      "total": 61,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Customers",
+      "phrases": [
+        "customer",
+        "customers"
+      ],
+      "total": 60,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Worked",
+      "phrases": [
+        "worked"
+      ],
+      "total": 59,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Thanku",
+      "phrases": [
+        "thanku"
+      ],
+      "total": 57,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Delivered",
+      "phrases": [
+        "delivered"
+      ],
+      "total": 56,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bestttttt",
+      "phrases": [
+        "bestttttt"
+      ],
+      "total": 55,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Fair",
+      "phrases": [
+        "fair"
+      ],
+      "total": 54,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Reply",
+      "phrases": [
+        "reply"
+      ],
+      "total": 54,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Fooding",
+      "phrases": [
+        "fooding",
+        "foodling"
+      ],
+      "total": 54,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Favourite",
+      "phrases": [
+        "favourite"
+      ],
+      "total": 52,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Delay",
+      "phrases": [
+        "delay",
+        "delayed",
+        "delays"
+      ],
+      "total": 51,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Xxx",
+      "phrases": [
+        "xxx"
+      ],
+      "total": 50,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Loved",
+      "phrases": [
+        "loved"
+      ],
+      "total": 50,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Hai",
+      "phrases": [
+        "hai",
+        "hai.",
+        "hain"
+      ],
+      "total": 49,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Acceptable",
+      "phrases": [
+        "acceptable"
+      ],
+      "total": 47,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Offers",
+      "phrases": [
+        "offer",
+        "offers"
+      ],
+      "total": 45,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Foods",
+      "phrases": [
+        "foods"
+      ],
+      "total": 45,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Recommended",
+      "phrases": [
+        "recommend",
+        "recommended"
+      ],
+      "total": 45,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Fraud",
+      "phrases": [
+        "fraud",
+        "fraud.",
+        "frauds"
+      ],
+      "total": 43,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Swegy",
+      "phrases": [
+        "swegy"
+      ],
+      "total": 40,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Order",
+      "phrases": [
+        "order",
+        "order.",
+        "ordered",
+        "ordering",
+        "orders",
+        "orders."
+      ],
+      "total": 39,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Yeu",
+      "phrases": [
+        "yeu"
+      ],
+      "total": 38,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Deals",
+      "phrases": [
+        "deals"
+      ],
+      "total": 38,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Prices",
+      "phrases": [
+        "price",
+        "prices",
+        "pricing"
+      ],
+      "total": 38,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Offering",
+      "phrases": [
+        "offering"
+      ],
+      "total": 37,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Yaaa",
+      "phrases": [
+        "yaaa"
+      ],
+      "total": 36,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Meal",
+      "phrases": [
+        "dinner",
+        "meal"
+      ],
+      "total": 36,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Food",
+      "phrases": [
+        "food",
+        "food."
+      ],
+      "total": 36,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Fastest",
+      "phrases": [
+        "fast",
+        "faster",
+        "fastest"
+      ],
+      "total": 34,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Foodies",
+      "phrases": [
+        "foodie",
+        "foodies"
+      ],
+      "total": 32,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Coupons / pricing",
+      "phrases": [
+        "coupon",
+        "coupons"
+      ],
+      "total": 31,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Slow",
+      "phrases": [
+        "slow"
+      ],
+      "total": 31,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Fees",
+      "phrases": [
+        "fee",
+        "fees"
+      ],
+      "total": 29,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Kabhi",
+      "phrases": [
+        "kabhi"
+      ],
+      "total": 29,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Sweegy",
+      "phrases": [
+        "sweegy",
+        "swiigy"
+      ],
+      "total": 28,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Quickly",
+      "phrases": [
+        "quickly"
+      ],
+      "total": 28,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Satisfied",
+      "phrases": [
+        "satisfied"
+      ],
+      "total": 28,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Restaurant",
+      "phrases": [
+        "restaurant",
+        "restaurants"
+      ],
+      "total": 27,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Experience",
+      "phrases": [
+        "experience",
+        "experience.",
+        "experienced",
+        "experiences"
+      ],
+      "total": 27,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Speed",
+      "phrases": [
+        "speed"
+      ],
+      "total": 27,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "हैं",
+      "phrases": [
+        "हैं"
+      ],
+      "total": 26,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Experience.will",
+      "phrases": [
+        "experience.will"
+      ],
+      "total": 26,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Deal",
+      "phrases": [
+        "deal"
+      ],
+      "total": 26,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Cancelation",
+      "phrases": [
+        "cancel",
+        "cancelation",
+        "cancellation"
+      ],
+      "total": 26,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Scamming",
+      "phrases": [
+        "scam",
+        "scammed",
+        "scammers",
+        "scamming"
+      ],
+      "total": 26,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Wooohh",
+      "phrases": [
+        "wooohh"
+      ],
+      "total": 25,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Cost",
+      "phrases": [
+        "cost"
+      ],
+      "total": 25,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Affordable",
+      "phrases": [
+        "affordable"
+      ],
+      "total": 25,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "No response from support",
+      "phrases": [
+        "no response from support"
+      ],
+      "total": 25,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bhai",
+      "phrases": [
+        "bhai",
+        "bhaiya"
+      ],
+      "total": 24,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Sexy",
+      "phrases": [
+        "sexy"
+      ],
+      "total": 24,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Expensive",
+      "phrases": [
+        "cheap",
+        "cheaper",
+        "costly",
+        "expensive"
+      ],
+      "total": 24,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bring back 10 minute bolt delivery",
+      "phrases": [],
+      "total": 24,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Discount",
+      "phrases": [
+        "discount",
+        "discounted",
+        "discounts"
+      ],
+      "total": 23,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Foodeble",
+      "phrases": [
+        "foodeble"
+      ],
+      "total": 23,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Unbelievable",
+      "phrases": [
+        "unbelievable"
+      ],
+      "total": 22,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Too expensive",
+      "phrases": [
+        "too expensive"
+      ],
+      "total": 22,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Wow",
+      "phrases": [
+        "wow",
+        "wow."
+      ],
+      "total": 22,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Overpriced",
+      "phrases": [
+        "overpriced"
+      ],
+      "total": 21,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Khatiya",
+      "phrases": [
+        "khatiya"
+      ],
+      "total": 21,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Omg",
+      "phrases": [
+        "omg"
+      ],
+      "total": 21,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Timely",
+      "phrases": [
+        "timely"
+      ],
+      "total": 21,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Worsen",
+      "phrases": [
+        "worsen"
+      ],
+      "total": 21,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Parcel",
+      "phrases": [
+        "parcel"
+      ],
+      "total": 21,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Instantly",
+      "phrases": [
+        "immediately",
+        "instantly"
+      ],
+      "total": 19,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Anytime",
+      "phrases": [
+        "anytime"
+      ],
+      "total": 19,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Sarvice",
+      "phrases": [
+        "sarvice"
+      ],
+      "total": 19,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Complaint",
+      "phrases": [
+        "complaint"
+      ],
+      "total": 18,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Servic",
+      "phrases": [
+        "servic"
+      ],
+      "total": 18,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Experience,repeatedly",
+      "phrases": [
+        "experience,repeatedly"
+      ],
+      "total": 18,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Unacceptable",
+      "phrases": [
+        "unacceptable"
+      ],
+      "total": 17,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bhanka",
+      "phrases": [
+        "bhanka",
+        "bhuta"
+      ],
+      "total": 17,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bhagwan",
+      "phrases": [
+        "bhagwan"
+      ],
+      "total": 17,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Rubbish",
+      "phrases": [
+        "rubbish"
+      ],
+      "total": 17,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Arrived",
+      "phrases": [
+        "arrive",
+        "arrived"
+      ],
+      "total": 17,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Bhalekar",
+      "phrases": [
+        "bhalekar"
+      ],
+      "total": 16,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Quality",
+      "phrases": [
+        "quality"
+      ],
+      "total": 16,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bahut",
+      "phrases": [
+        "bahut",
+        "bhut",
+        "bohut"
+      ],
+      "total": 16,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Aap",
+      "phrases": [
+        "aap"
+      ],
+      "total": 16,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Timing",
+      "phrases": [
+        "timing",
+        "timings"
+      ],
+      "total": 16,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Groceries",
+      "phrases": [
+        "groceries",
+        "grocery"
+      ],
+      "total": 16,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bakwas",
+      "phrases": [
+        "bakwaas",
+        "bakwas"
+      ],
+      "total": 16,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Poor",
+      "phrases": [
+        "poor"
+      ],
+      "total": 15,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Late",
+      "phrases": [
+        "late",
+        "late."
+      ],
+      "total": 15,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "App performance / crashes",
+      "phrases": [
+        "app crash",
+        "crashes"
+      ],
+      "total": 14,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Unserviceable",
+      "phrases": [
+        "unserviceable"
+      ],
+      "total": 14,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Loving",
+      "phrases": [
+        "love",
+        "loving"
+      ],
+      "total": 14,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Difficult",
+      "phrases": [
+        "difficult",
+        "hard"
+      ],
+      "total": 14,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Listed",
+      "phrases": [
+        "listed"
+      ],
+      "total": 14,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Fraudsters",
+      "phrases": [
+        "fraudster",
+        "fraudsters"
+      ],
+      "total": 13,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Charge",
+      "phrases": [
+        "charge",
+        "charged",
+        "charges",
+        "charging"
+      ],
+      "total": 13,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Yar",
+      "phrases": [
+        "yar"
+      ],
+      "total": 13,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Dude",
+      "phrases": [
+        "dude"
+      ],
+      "total": 13,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "नहीं",
+      "phrases": [
+        "नहीं"
+      ],
+      "total": 13,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Aata",
+      "phrases": [
+        "aata"
+      ],
+      "total": 13,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Recipes",
+      "phrases": [
+        "recipes"
+      ],
+      "total": 13,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Yoooo",
+      "phrases": [
+        "yoooo"
+      ],
+      "total": 13,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Disgusting",
+      "phrases": [
+        "disgusting"
+      ],
+      "total": 13,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Timeing",
+      "phrases": [
+        "timeing",
+        "timeng"
+      ],
+      "total": 12,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Providers",
+      "phrases": [
+        "provider",
+        "providers"
+      ],
+      "total": 12,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Performance",
+      "phrases": [
+        "performance"
+      ],
+      "total": 12,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Budget",
+      "phrases": [
+        "budget"
+      ],
+      "total": 12,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Mast",
+      "phrases": [
+        "mast"
+      ],
+      "total": 12,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bikar",
+      "phrases": [
+        "bakar",
+        "bikar"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Packing",
+      "phrases": [
+        "packing"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Payment failed",
+      "phrases": [
+        "payment failed"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Sirvice",
+      "phrases": [
+        "sirvice"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Sevice",
+      "phrases": [
+        "sevice",
+        "survice"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Kalu",
+      "phrases": [
+        "kalu"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Gst",
+      "phrases": [
+        "gst"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Ghv",
+      "phrases": [
+        "ghv"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Ghee",
+      "phrases": [
+        "ghee"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Kalki",
+      "phrases": [
+        "kalki"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Sar",
+      "phrases": [
+        "sar"
+      ],
+      "total": 11,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Payment",
+      "phrases": [
+        "payment"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Jaldi",
+      "phrases": [
+        "jaldi"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Friendly",
+      "phrases": [
+        "friendly"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Reliable",
+      "phrases": [
+        "reliable"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Sarvesh",
+      "phrases": [
+        "sarvesh"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Disgraceful",
+      "phrases": [
+        "disgraceful"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Cash",
+      "phrases": [
+        "cash"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Wowow",
+      "phrases": [
+        "wowow"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Instamart",
+      "phrases": [
+        "instamart",
+        "instamart.lt"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Bhejo",
+      "phrases": [
+        "bhejo"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Hate",
+      "phrases": [
+        "hate"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Aaj",
+      "phrases": [
+        "aaj"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Rates",
+      "phrases": [
+        "rate",
+        "rates"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Excited",
+      "phrases": [
+        "excited"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Gud",
+      "phrases": [
+        "gud"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Ahe",
+      "phrases": [
+        "aha",
+        "ahe"
+      ],
+      "total": 10,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Master",
+      "phrases": [
+        "master"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Sahi",
+      "phrases": [
+        "sahi"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Buy",
+      "phrases": [
+        "buy",
+        "buying"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Vgood",
+      "phrases": [
+        "vgood"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Kav",
+      "phrases": [
+        "kav"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Kiya",
+      "phrases": [
+        "kiya"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Supportive",
+      "phrases": [
+        "supportive"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Koliti",
+      "phrases": [
+        "koi",
+        "koliti",
+        "koothi"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bekar",
+      "phrases": [
+        "bekar"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Dish",
+      "phrases": [
+        "dish"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Osm",
+      "phrases": [
+        "osam",
+        "osm"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Convenient",
+      "phrases": [
+        "convenient"
+      ],
+      "total": 9,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Kumar",
+      "phrases": [
+        "kumar",
+        "kumari"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bkwas",
+      "phrases": [
+        "bkwas"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Jyada",
+      "phrases": [
+        "jyada"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Zam",
+      "phrases": [
+        "zam"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Goooooooood",
+      "phrases": [
+        "goooooooood"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Khtarnak",
+      "phrases": [
+        "khtarnak"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bade",
+      "phrases": [
+        "bade"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Hungry",
+      "phrases": [
+        "hungry"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Interested",
+      "phrases": [
+        "interested"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Location",
+      "phrases": [
+        "location",
+        "locations"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Youu",
+      "phrases": [
+        "youu"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Lag",
+      "phrases": [
+        "lag",
+        "laggy"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Eat",
+      "phrases": [
+        "eat"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Hii",
+      "phrases": [
+        "hii"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Job",
+      "phrases": [
+        "job"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Low",
+      "phrases": [
+        "low",
+        "lowest"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Effectively",
+      "phrases": [
+        "effectively"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Goog",
+      "phrases": [
+        "goog"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Cancelled",
+      "phrases": [
+        "canceled",
+        "cancelled"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Ghatiya",
+      "phrases": [
+        "ghatiya",
+        "ghatya"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Mood",
+      "phrases": [
+        "mood"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Vry",
+      "phrases": [
+        "vrey",
+        "vry"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Abhi",
+      "phrases": [
+        "abhi",
+        "bhi"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "करने",
+      "phrases": [
+        "करने"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Enjoying",
+      "phrases": [
+        "enjoying"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Waiting",
+      "phrases": [
+        "waited",
+        "waiting"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Easy",
+      "phrases": [
+        "easy"
+      ],
+      "total": 8,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Unlike",
+      "phrases": [
+        "unlike"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Login",
+      "phrases": [
+        "login"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Food stale",
+      "phrases": [],
+      "total": 7,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Pizza",
+      "phrases": [
+        "pizza"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Karna",
+      "phrases": [
+        "karna",
+        "krna"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Bihari",
+      "phrases": [
+        "bihari"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Helpfull",
+      "phrases": [
+        "helpful",
+        "helpfull"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Rating",
+      "phrases": [
+        "rating"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Slightly",
+      "phrases": [
+        "slightly"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Yhe",
+      "phrases": [
+        "yhe"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Address",
+      "phrases": [
+        "address"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Vaov",
+      "phrases": [
+        "vaov"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Sav",
+      "phrases": [
+        "sav"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Frod",
+      "phrases": [
+        "frod"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Improve",
+      "phrases": [
+        "improve",
+        "improved"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Babita",
+      "phrases": [
+        "babita"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Jada",
+      "phrases": [
+        "jada"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Properly",
+      "phrases": [
+        "properly"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Karte",
+      "phrases": [
+        "karte"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Packaging / spillage",
+      "phrases": [
+        "packaging"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Aate",
+      "phrases": [
+        "aate"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Mujhe",
+      "phrases": [
+        "mujhe"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Num",
+      "phrases": [
+        "num"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Waste",
+      "phrases": [
+        "waste"
+      ],
+      "total": 7,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Easily",
+      "phrases": [
+        "easily"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Jsndj",
+      "phrases": [
+        "jsndj"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Ledhu",
+      "phrases": [
+        "ledhu"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Aswm",
+      "phrases": [
+        "aswm"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Dilavery",
+      "phrases": [
+        "dilavery",
+        "dilivery"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Platforms",
+      "phrases": [
+        "platform",
+        "platforms"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Needed",
+      "phrases": [
+        "needed",
+        "required"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Dishes",
+      "phrases": [
+        "dishes"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Money",
+      "phrases": [
+        "money"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Karb",
+      "phrases": [
+        "karb"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Greater",
+      "phrases": [
+        "greater",
+        "higher"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Time",
+      "phrases": [
+        "time",
+        "time."
+      ],
+      "total": 6,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Ful",
+      "phrases": [
+        "ful"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Jajahsn",
+      "phrases": [
+        "jajahsn"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Charger",
+      "phrases": [
+        "charger"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Vikar",
+      "phrases": [
+        "vikar"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Kya",
+      "phrases": [
+        "kya"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Khana",
+      "phrases": [
+        "khana"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Hidden charges",
+      "phrases": [
+        "hidden charges"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Verry",
+      "phrases": [
+        "verry"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Request",
+      "phrases": [
+        "request"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Unable",
+      "phrases": [
+        "unable"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Genuine",
+      "phrases": [
+        "genuine"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Paid",
+      "phrases": [
+        "paid",
+        "pay"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Dikhta",
+      "phrases": [
+        "dikhta"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Didnot",
+      "phrases": [
+        "didnot"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Khoob",
+      "phrases": [
+        "khoob"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Karo",
+      "phrases": [
+        "karo"
+      ],
+      "total": 6,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Painful",
+      "phrases": [
+        "painful"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Zamato",
+      "phrases": [
+        "zamato"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Rateee",
+      "phrases": [
+        "rateee"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Dilevry",
+      "phrases": [
+        "dilevry"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Exilant",
+      "phrases": [
+        "exilant"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Dunga",
+      "phrases": [
+        "dunga"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Product",
+      "phrases": [
+        "product",
+        "products"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Worth",
+      "phrases": [
+        "worth"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Tak",
+      "phrases": [
+        "tak"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Vikash",
+      "phrases": [
+        "vikash"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Dilevery",
+      "phrases": [
+        "dilevery"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Surat",
+      "phrases": [
+        "surat"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Kore",
+      "phrases": [
+        "kare",
+        "kore"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Delevery",
+      "phrases": [
+        "delevery"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Send",
+      "phrases": [
+        "send"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Satisfaction",
+      "phrases": [
+        "satisfaction"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Sali",
+      "phrases": [
+        "sali"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Froad",
+      "phrases": [
+        "froad"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Lavkr",
+      "phrases": [
+        "lavkr"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Nandhini",
+      "phrases": [
+        "nandhini"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Timer",
+      "phrases": [
+        "timer"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Dollaa",
+      "phrases": [
+        "dollaa"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Guuuuuuud",
+      "phrases": [
+        "guuuuuuud"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Slowww",
+      "phrases": [
+        "slowww"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Yash",
+      "phrases": [
+        "yash"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Ready",
+      "phrases": [
+        "ready"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "आधा",
+      "phrases": [
+        "आधा"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Werry",
+      "phrases": [
+        "werry"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Support",
+      "phrases": [
+        "support",
+        "support."
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Vegetables",
+      "phrases": [
+        "vegetables"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Muchh",
+      "phrases": [
+        "muchh"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Full",
+      "phrases": [
+        "full"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Badhiya",
+      "phrases": [
+        "badhiya"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Pathetic",
+      "phrases": [
+        "pathetic",
+        "pathetic.worst"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Taste",
+      "phrases": [
+        "taste"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Bht",
+      "phrases": [
+        "bht"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bast",
+      "phrases": [
+        "bas",
+        "bast"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bhaut",
+      "phrases": [
+        "bhaut"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Chicken",
+      "phrases": [
+        "chicken"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Lunch",
+      "phrases": [
+        "lunch"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Maurya",
+      "phrases": [
+        "maurya"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Partners",
+      "phrases": [
+        "partner",
+        "partners",
+        "partnership"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Lete",
+      "phrases": [
+        "lete"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Fride",
+      "phrases": [
+        "fride"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Hhj",
+      "phrases": [
+        "hhj"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Frut",
+      "phrases": [
+        "frut",
+        "fruts"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Goood",
+      "phrases": [
+        "goood",
+        "goooood"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Indian",
+      "phrases": [
+        "indian"
+      ],
+      "total": 5,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Thek",
+      "phrases": [
+        "thek"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "High",
+      "phrases": [
+        "high"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Exelent",
+      "phrases": [
+        "exelent"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Prabhu",
+      "phrases": [
+        "prabhu"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Frustrated",
+      "phrases": [
+        "frustrated"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Filaa",
+      "phrases": [
+        "filaa"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Sir",
+      "phrases": [
+        "sir"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Added",
+      "phrases": [
+        "add",
+        "added"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Awsm",
+      "phrases": [
+        "awsm"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Rice",
+      "phrases": [
+        "rice"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Disappointing",
+      "phrases": [
+        "disappointing"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Hmm",
+      "phrases": [
+        "hmm"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Nihari",
+      "phrases": [
+        "nihari"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Maa",
+      "phrases": [
+        "maa"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Rain",
+      "phrases": [
+        "rain",
+        "rains",
+        "rainy"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Call",
+      "phrases": [
+        "call"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Frist",
+      "phrases": [
+        "frist"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Gij",
+      "phrases": [
+        "gij"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Helpless",
+      "phrases": [
+        "helpless"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Sab",
+      "phrases": [
+        "sab",
+        "sabse",
+        "saheb"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Supar",
+      "phrases": [
+        "supar"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Drastically",
+      "phrases": [
+        "drastically"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Checkout",
+      "phrases": [
+        "checkout"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Myre",
+      "phrases": [
+        "myre"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Singh",
+      "phrases": [
+        "singh"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Uninstalled",
+      "phrases": [
+        "uninstalled",
+        "uninstalling"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Place",
+      "phrases": [
+        "place"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Exellant",
+      "phrases": [
+        "exellant"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Utterly",
+      "phrases": [
+        "utterly"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Helping",
+      "phrases": [
+        "helped",
+        "helping"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Aya",
+      "phrases": [
+        "aya"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Acha",
+      "phrases": [
+        "acha",
+        "achcha"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Stars",
+      "phrases": [
+        "star",
+        "stars",
+        "stars."
+      ],
+      "total": 4,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Usability",
+      "phrases": [
+        "usability"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Supper",
+      "phrases": [
+        "supper"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Stupid",
+      "phrases": [
+        "stupid"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Unethical",
+      "phrases": [
+        "unethical"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Reviews",
+      "phrases": [
+        "review",
+        "reviews",
+        "reviews."
+      ],
+      "total": 4,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Exrpiry",
+      "phrases": [
+        "exrpiry"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Kam",
+      "phrases": [
+        "kam"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Delhi",
+      "phrases": [
+        "delhi"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bekaar",
+      "phrases": [
+        "bekaar"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Applicable",
+      "phrases": [
+        "applicable"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Biryani",
+      "phrases": [
+        "biryani"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Delievery",
+      "phrases": [
+        "delievery"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Consume",
+      "phrases": [
+        "consume"
+      ],
+      "total": 4,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Lawra",
+      "phrases": [
+        "lawra"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Dissatisfied",
+      "phrases": [
+        "dissatisfied"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Yadav",
+      "phrases": [
+        "yadav"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Phekar",
+      "phrases": [
+        "phekar"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Provided",
+      "phrases": [
+        "provided"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Jhakkaasss",
+      "phrases": [
+        "jhakkaasss"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Avialable",
+      "phrases": [
+        "avialable"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Asssome",
+      "phrases": [
+        "asssome"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Pubg",
+      "phrases": [
+        "pubg"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Pement",
+      "phrases": [
+        "pement"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Uij",
+      "phrases": [
+        "uij"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Rambabu",
+      "phrases": [
+        "rambabu"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Sasuri",
+      "phrases": [
+        "sasuri"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Karne",
+      "phrases": [
+        "karne"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Experince",
+      "phrases": [
+        "experince"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Comparing",
+      "phrases": [
+        "compared",
+        "comparing"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Accurate",
+      "phrases": [
+        "accurate"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Kiye",
+      "phrases": [
+        "kiye"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "On-time",
+      "phrases": [
+        "on-time"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Unresponsive",
+      "phrases": [
+        "unresponsive"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Wah",
+      "phrases": [
+        "wah"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Quick",
+      "phrases": [
+        "quick"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Jara",
+      "phrases": [
+        "jara"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Morning",
+      "phrases": [
+        "morning"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Working",
+      "phrases": [
+        "work",
+        "working"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Options",
+      "phrases": [
+        "option",
+        "options"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Advice",
+      "phrases": [
+        "advice"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Avg",
+      "phrases": [
+        "avg"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Ihave",
+      "phrases": [
+        "ihave"
+      ],
+      "total": 3,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Removed",
+      "phrases": [
+        "deleted",
+        "removed"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Combo",
+      "phrases": [
+        "combo"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Kooky",
+      "phrases": [
+        "kooky"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bed",
+      "phrases": [
+        "bed"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Sakta",
+      "phrases": [
+        "sakta"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Fruds",
+      "phrases": [
+        "fruds"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Hostel",
+      "phrases": [
+        "hostel"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Free",
+      "phrases": [
+        "free"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Instramart.",
+      "phrases": [
+        "instramart."
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Misleading",
+      "phrases": [
+        "misleading"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Owsam",
+      "phrases": [
+        "owsam"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Adipoli",
+      "phrases": [
+        "adipoli"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Logg",
+      "phrases": [
+        "logg"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Facility",
+      "phrases": [
+        "facility"
+      ],
+      "total": 3,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Kuch",
+      "phrases": [
+        "kuch",
+        "kuchh"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Sucha",
+      "phrases": [
+        "sucha"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Ekdum",
+      "phrases": [
+        "ekdum"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Hotel",
+      "phrases": [
+        "hotel"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Number",
+      "phrases": [
+        "number"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Faltu",
+      "phrases": [
+        "faltu"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Nise",
+      "phrases": [
+        "nise"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Aane",
+      "phrases": [
+        "aane"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Plz",
+      "phrases": [
+        "plz"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Smooth",
+      "phrases": [
+        "smooth"
+      ],
+      "total": 3,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Increase",
+      "phrases": [
+        "increase",
+        "increasing"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Veg",
+      "phrases": [
+        "veg"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Accha",
+      "phrases": [
+        "accha"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Mera",
+      "phrases": [
+        "mera"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Jhsbsjjsnjssj",
+      "phrases": [
+        "jhsbsjjsnjssj"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Apk",
+      "phrases": [
+        "apk"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Frustrating",
+      "phrases": [
+        "frustrating"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Extra",
+      "phrases": [
+        "extra"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Bura",
+      "phrases": [
+        "bura"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Amezing",
+      "phrases": [
+        "amezing"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Munda",
+      "phrases": [
+        "munda"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Tooo",
+      "phrases": [
+        "tooo"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Important",
+      "phrases": [
+        "important"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Wahhhhh",
+      "phrases": [
+        "wahhhhh"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Varma",
+      "phrases": [
+        "varma"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Daba",
+      "phrases": [
+        "daba"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Ist",
+      "phrases": [
+        "ist"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Nhi",
+      "phrases": [
+        "nhi"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Delivary",
+      "phrases": [
+        "delivary"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Useless.they",
+      "phrases": [
+        "useless",
+        "useless.they"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Cravings",
+      "phrases": [
+        "craving",
+        "cravings"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Rahul",
+      "phrases": [
+        "rahul"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Supported",
+      "phrases": [
+        "supported"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Times",
+      "phrases": [
+        "times"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Coming",
+      "phrases": [
+        "coming"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Nahi",
+      "phrases": [
+        "nahi"
+      ],
+      "total": 3,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Choice",
+      "phrases": [
+        "choice"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Keeping",
+      "phrases": [
+        "keeping"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Approve",
+      "phrases": [
+        "approve"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Jab",
+      "phrases": [
+        "jab"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Resolve",
+      "phrases": [
+        "resolve",
+        "resolving"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Redemption",
+      "phrases": [
+        "redemption"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Aaa",
+      "phrases": [
+        "aaa"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Thieves",
+      "phrases": [
+        "thieves"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Baade",
+      "phrases": [
+        "baade"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Credit",
+      "phrases": [
+        "credit"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Harkesh",
+      "phrases": [
+        "harkesh"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Dulux",
+      "phrases": [
+        "dulux"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Kms",
+      "phrases": [
+        "kms"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Dont",
+      "phrases": [
+        "dont"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Rahunga",
+      "phrases": [
+        "rahunga"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Mene",
+      "phrases": [
+        "mene"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Accountability",
+      "phrases": [
+        "accountability"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Costumer",
+      "phrases": [
+        "costumer"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Barish",
+      "phrases": [
+        "barish"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Ram",
+      "phrases": [
+        "ram"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Akhil",
+      "phrases": [
+        "akhil"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Hero",
+      "phrases": [
+        "hero"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Ereeeersrr",
+      "phrases": [
+        "ereeeersrr"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Shaikh",
+      "phrases": [
+        "shaikh"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Average",
+      "phrases": [
+        "average"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Muje",
+      "phrases": [
+        "muje"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Kenshil",
+      "phrases": [
+        "kenshil"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Dark",
+      "phrases": [
+        "dark"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Yashoda",
+      "phrases": [
+        "yashoda"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Cashbacks",
+      "phrases": [
+        "cashback",
+        "cashbacks"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Mela",
+      "phrases": [
+        "mela"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Nyc",
+      "phrases": [
+        "nyc"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Avarage",
+      "phrases": [
+        "avarage"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Ondc",
+      "phrases": [
+        "ondc"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Pehle",
+      "phrases": [
+        "pehle"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Total",
+      "phrases": [
+        "total"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Interface",
+      "phrases": [
+        "interface"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Selling",
+      "phrases": [
+        "selling"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Cafe",
+      "phrases": [
+        "cafe"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Majedaar",
+      "phrases": [
+        "majedaar"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Wait",
+      "phrases": [
+        "wait"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Found",
+      "phrases": [
+        "found"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Battar",
+      "phrases": [
+        "battar"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Suspended",
+      "phrases": [
+        "suspended"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Awasome",
+      "phrases": [
+        "awasome"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Lies",
+      "phrases": [
+        "lies"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Previously",
+      "phrases": [
+        "previous",
+        "previously"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Trusted",
+      "phrases": [
+        "trust",
+        "trusted"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Prompt",
+      "phrases": [
+        "prompt"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Thanda",
+      "phrases": [
+        "thanda"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Owsm",
+      "phrases": [
+        "owsm"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Lot",
+      "phrases": [
+        "lot"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Tastyless",
+      "phrases": [
+        "tastyless"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Consistently",
+      "phrases": [
+        "consistently"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Nic",
+      "phrases": [
+        "nic"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Mrp",
+      "phrases": [
+        "mrp"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Saath",
+      "phrases": [
+        "saath"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Supermarket",
+      "phrases": [
+        "supermarket"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Thnx",
+      "phrases": [
+        "thnx"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Navadeep",
+      "phrases": [
+        "navadeep"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Burger",
+      "phrases": [
+        "burger"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Aws",
+      "phrases": [
+        "aws"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Fake",
+      "phrases": [
+        "fake"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Mathura",
+      "phrases": [
+        "mathura"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Tnc",
+      "phrases": [
+        "tnc"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Dirty",
+      "phrases": [
+        "dirty"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Tha",
+      "phrases": [
+        "tha"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Inr",
+      "phrases": [
+        "inr",
+        "oferr"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Givmi",
+      "phrases": [
+        "givmi"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Hsha",
+      "phrases": [
+        "hsha"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Glitchy",
+      "phrases": [
+        "glitchy"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Download",
+      "phrases": [
+        "download"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Momin",
+      "phrases": [
+        "momin"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Earlier",
+      "phrases": [
+        "earlier"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Tati",
+      "phrases": [
+        "tati"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Rely",
+      "phrases": [
+        "rely"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Hitesh",
+      "phrases": [
+        "hitesh"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Expired",
+      "phrases": [
+        "expired"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Assigned",
+      "phrases": [
+        "assigned"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Teste",
+      "phrases": [
+        "teste"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Follow",
+      "phrases": [
+        "follow"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Toh",
+      "phrases": [
+        "toh"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Parsal",
+      "phrases": [
+        "parsal"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Tax",
+      "phrases": [
+        "tax",
+        "taxes"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Placement",
+      "phrases": [
+        "placement",
+        "placing"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Ololo",
+      "phrases": [
+        "ololo"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Hota",
+      "phrases": [
+        "hota",
+        "hote"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Jordar",
+      "phrases": [
+        "jordar"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Nuce",
+      "phrases": [
+        "nuce"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Absolutely",
+      "phrases": [
+        "absolutely"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Pls",
+      "phrases": [
+        "pls"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Caseback",
+      "phrases": [
+        "caseback"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Hospitality",
+      "phrases": [
+        "hospitality"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Website",
+      "phrases": [
+        "site",
+        "website"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Behaved",
+      "phrases": [
+        "behaved"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Cod",
+      "phrases": [
+        "cod"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Disable",
+      "phrases": [
+        "disable"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Noot",
+      "phrases": [
+        "noot"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "No help",
+      "phrases": [
+        "no help"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Cheats",
+      "phrases": [
+        "cheaters",
+        "cheats"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Solved",
+      "phrases": [
+        "solved"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Tested",
+      "phrases": [
+        "test",
+        "tested"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Dumb",
+      "phrases": [
+        "dumb"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Idiots",
+      "phrases": [
+        "idiots"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Vare",
+      "phrases": [
+        "vare",
+        "vari"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Received",
+      "phrases": [
+        "receive",
+        "received"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Irresponsible",
+      "phrases": [
+        "irresponsible"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Duur",
+      "phrases": [
+        "duur"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Paneer",
+      "phrases": [
+        "paneer"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Bowl",
+      "phrases": [
+        "bowl"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Boss",
+      "phrases": [
+        "boss"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Amount.",
+      "phrases": [
+        "amount",
+        "amount."
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Started",
+      "phrases": [
+        "started"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Oder",
+      "phrases": [
+        "oder"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Days",
+      "phrases": [
+        "days"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Raho",
+      "phrases": [
+        "raha",
+        "raho"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Servise",
+      "phrases": [
+        "servise"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Give",
+      "phrases": [
+        "give"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Yeri",
+      "phrases": [
+        "yeri"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Problems",
+      "phrases": [
+        "issue",
+        "issues",
+        "problem",
+        "problems"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Online",
+      "phrases": [
+        "online"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Open",
+      "phrases": [
+        "open",
+        "opening"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Response",
+      "phrases": [
+        "responding",
+        "response",
+        "responses"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Wroste",
+      "phrases": [
+        "wrost",
+        "wroste"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Nvhjm",
+      "phrases": [
+        "nvhjm"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Lauda",
+      "phrases": [
+        "lauda"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Behaviour",
+      "phrases": [
+        "behavior",
+        "behaviour"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Patna",
+      "phrases": [
+        "patna"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Process",
+      "phrases": [
+        "process"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Deactivated",
+      "phrases": [
+        "deactivated"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Rupees",
+      "phrases": [
+        "rupees"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Negative",
+      "phrases": [
+        "negative"
+      ],
+      "total": 2,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Wrong",
+      "phrases": [
+        "incorrect",
+        "wrong"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Comfortable",
+      "phrases": [
+        "comfortable"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Subscription",
+      "phrases": [
+        "subscription"
+      ],
+      "total": 2,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Shift",
+      "phrases": [
+        "shift"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Double",
+      "phrases": [
+        "double"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Misal",
+      "phrases": [
+        "misal"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Note",
+      "phrases": [
+        "note",
+        "note."
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Scamer",
+      "phrases": [
+        "scamer"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Mind",
+      "phrases": [
+        "mind"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Liye",
+      "phrases": [
+        "liye"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Zakasssssssssss",
+      "phrases": [
+        "zakasssssssssss"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Sauce",
+      "phrases": [
+        "sauce"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Earth",
+      "phrases": [
+        "earth"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Cheated",
+      "phrases": [
+        "cheated",
+        "cheating"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Ago",
+      "phrases": [
+        "ago"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Land",
+      "phrases": [
+        "land"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Bill",
+      "phrases": [
+        "bill"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Play",
+      "phrases": [
+        "play"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Check.",
+      "phrases": [
+        "check."
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Goodness",
+      "phrases": [
+        "goodness"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Ghr",
+      "phrases": [
+        "ghr"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Regional",
+      "phrases": [
+        "regional"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Oil",
+      "phrases": [
+        "oil"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Mayonnaise",
+      "phrases": [
+        "mayonnaise"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Bat",
+      "phrases": [
+        "bat"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Unusable",
+      "phrases": [
+        "unusable"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Araria",
+      "phrases": [
+        "araria"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Area",
+      "phrases": [
+        "area"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Permission",
+      "phrases": [
+        "permission"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Apply",
+      "phrases": [
+        "apply"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Westing.",
+      "phrases": [
+        "westing."
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Authentic",
+      "phrases": [
+        "authentic"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Greedy",
+      "phrases": [
+        "greedy"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Pocket",
+      "phrases": [
+        "pocket"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Vishal",
+      "phrases": [
+        "vishal"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Returns",
+      "phrases": [
+        "return",
+        "returns"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Center",
+      "phrases": [
+        "center",
+        "centre"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Truth",
+      "phrases": [
+        "truth"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Parter",
+      "phrases": [
+        "parter"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Unprofessional",
+      "phrases": [
+        "unprofessional",
+        "unprofessional."
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Maza",
+      "phrases": [
+        "maza"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Anymore",
+      "phrases": [
+        "anymore"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Confusing",
+      "phrases": [
+        "confuse",
+        "confusing"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Dnt",
+      "phrases": [
+        "dnt"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Box",
+      "phrases": [
+        "box"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Collaborated",
+      "phrases": [
+        "collaborated"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Cancalled",
+      "phrases": [
+        "cancalled"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Log",
+      "phrases": [
+        "log"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Karan",
+      "phrases": [
+        "karan"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Pod",
+      "phrases": [
+        "pod"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Kindly",
+      "phrases": [
+        "kindly"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Bhim",
+      "phrases": [
+        "bhim"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Man",
+      "phrases": [
+        "man",
+        "mans"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Unlock",
+      "phrases": [
+        "unlock"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Saman",
+      "phrases": [
+        "saman"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Dawat",
+      "phrases": [
+        "dawat"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Maverick",
+      "phrases": [
+        "maverick"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Momos",
+      "phrases": [
+        "momo",
+        "momos"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Cutlery",
+      "phrases": [
+        "cutlery"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Goapl",
+      "phrases": [
+        "goapl"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Premium",
+      "phrases": [
+        "premium"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Dam",
+      "phrases": [
+        "dam"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Ghost",
+      "phrases": [
+        "ghost"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Sseddddddddddddree",
+      "phrases": [
+        "sseddddddddddddree"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Eerer",
+      "phrases": [
+        "eerer"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Aswani",
+      "phrases": [
+        "aswani"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Corner",
+      "phrases": [
+        "corner"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Satr",
+      "phrases": [
+        "satr"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Fresh",
+      "phrases": [
+        "fresh"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Nowadays",
+      "phrases": [
+        "nowadays"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Recently",
+      "phrases": [
+        "recently"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Sambar",
+      "phrases": [
+        "sambar"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Wendy",
+      "phrases": [
+        "wendy"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Live",
+      "phrases": [
+        "live"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "’ll",
+      "phrases": [
+        "’ll"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Feedback",
+      "phrases": [
+        "feedback"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Wayyyyyyy",
+      "phrases": [
+        "wayyyyyyy"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "November",
+      "phrases": [
+        "november"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Proof",
+      "phrases": [
+        "proof",
+        "proofs"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Bolt",
+      "phrases": [
+        "bolt"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Update",
+      "phrases": [
+        "update"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Apple",
+      "phrases": [
+        "apple"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Hiv",
+      "phrases": [
+        "hiv"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Google",
+      "phrases": [
+        "google"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Coustomer",
+      "phrases": [
+        "coustomer"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Long",
+      "phrases": [
+        "long",
+        "longer"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Holder",
+      "phrases": [
+        "holder"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Copyright",
+      "phrases": [
+        "copyright"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Mnvk",
+      "phrases": [
+        "mnvk"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Essay",
+      "phrases": [
+        "essay"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Forcefully",
+      "phrases": [
+        "forcefully"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Called",
+      "phrases": [
+        "called"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Realtime",
+      "phrases": [
+        "realtime"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Percent",
+      "phrases": [
+        "percent"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Search",
+      "phrases": [
+        "search"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Oxygen",
+      "phrases": [
+        "oxygen"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Gola",
+      "phrases": [
+        "gola"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Connect",
+      "phrases": [
+        "connect",
+        "connection"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Convincing",
+      "phrases": [
+        "convincing"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Resort",
+      "phrases": [
+        "resort"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Ucfuf",
+      "phrases": [
+        "ucfuf"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Minutes",
+      "phrases": [
+        "minute",
+        "minutes",
+        "minutes."
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Company.",
+      "phrases": [
+        "company",
+        "company."
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "बहुत",
+      "phrases": [
+        "बहुत"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Disappointed.",
+      "phrases": [
+        "disappointed",
+        "disappointed."
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Vest",
+      "phrases": [
+        "vest"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Vanastali",
+      "phrases": [
+        "vanastali"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Snail.",
+      "phrases": [
+        "snail."
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Till",
+      "phrases": [
+        "till"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Train",
+      "phrases": [
+        "train"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Commitment",
+      "phrases": [
+        "commitment"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Benefits",
+      "phrases": [
+        "benefits"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Pathatic",
+      "phrases": [
+        "pathatic"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Policy",
+      "phrases": [
+        "policies",
+        "policy",
+        "policy."
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Dislocation",
+      "phrases": [
+        "dislocation"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Survies",
+      "phrases": [
+        "survies"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Responsibility",
+      "phrases": [
+        "responsibility"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Dieliever",
+      "phrases": [
+        "dieliever"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Lavda",
+      "phrases": [
+        "lavda"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Results",
+      "phrases": [
+        "results"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Shutdown",
+      "phrases": [
+        "shutdown"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Maps not working properly",
+      "phrases": [],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Uutg",
+      "phrases": [
+        "uutg"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Instamart should be open all night",
+      "phrases": [],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Faculty",
+      "phrases": [
+        "faculty"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Stuff",
+      "phrases": [
+        "stuff"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Local",
+      "phrases": [
+        "local"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Mach",
+      "phrases": [
+        "mach"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Pressurized",
+      "phrases": [
+        "pressurized"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Item",
+      "phrases": [
+        "item",
+        "items"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Decade",
+      "phrases": [
+        "decade"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Shown",
+      "phrases": [
+        "showed",
+        "showing",
+        "shown"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Energy",
+      "phrases": [
+        "energy"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Provide",
+      "phrases": [
+        "provide"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Promt",
+      "phrases": [
+        "promt"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Kannada",
+      "phrases": [
+        "kannada"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Seling",
+      "phrases": [
+        "seling"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Ornot",
+      "phrases": [
+        "ornot"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Agent",
+      "phrases": [
+        "agent",
+        "agent.",
+        "agents"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Mark",
+      "phrases": [
+        "mark"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Pata",
+      "phrases": [
+        "pata"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Stock",
+      "phrases": [
+        "stock"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Bhot",
+      "phrases": [
+        "bahot",
+        "bhot"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Rampurhat",
+      "phrases": [
+        "rampurhat"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Par",
+      "phrases": [
+        "par"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Pirce",
+      "phrases": [
+        "pirce"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Kyon",
+      "phrases": [
+        "kyon"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Series",
+      "phrases": [
+        "series"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Honey",
+      "phrases": [
+        "honey"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Marriott",
+      "phrases": [
+        "marriott"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Hit",
+      "phrases": [
+        "hit"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Ethical",
+      "phrases": [
+        "ethical"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Somaseez",
+      "phrases": [
+        "somaseez"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Mizan",
+      "phrases": [
+        "mizan"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Fuddu",
+      "phrases": [
+        "fuddu"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Retraunts",
+      "phrases": [
+        "retraunts"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Close",
+      "phrases": [
+        "close"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Reward",
+      "phrases": [
+        "reward"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Trending",
+      "phrases": [
+        "trending"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Chennai",
+      "phrases": [
+        "chennai"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Addres",
+      "phrases": [
+        "addres"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Mazid",
+      "phrases": [
+        "mazid"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "God",
+      "phrases": [
+        "god"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Careless",
+      "phrases": [
+        "careless"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Otp",
+      "phrases": [
+        "otp"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Parihar",
+      "phrases": [
+        "parihar"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Opps",
+      "phrases": [
+        "opps"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Class",
+      "phrases": [
+        "class"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Spotify",
+      "phrases": [
+        "spotify"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Thanxx",
+      "phrases": [
+        "thanxx"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Estimated.almost",
+      "phrases": [
+        "estimated.almost"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Baler",
+      "phrases": [
+        "baler"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Units",
+      "phrases": [
+        "units"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Boy",
+      "phrases": [
+        "boy"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Mail",
+      "phrases": [
+        "mail"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Sat",
+      "phrases": [
+        "sat"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Quantity",
+      "phrases": [
+        "quantity"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Honest",
+      "phrases": [
+        "honest"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Learning",
+      "phrases": [
+        "learning"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Chi",
+      "phrases": [
+        "chi"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Thuuuuu",
+      "phrases": [
+        "thuuuuu"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Absolute",
+      "phrases": [
+        "absolute"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Beast",
+      "phrases": [
+        "beast"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Tip",
+      "phrases": [
+        "tip"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Fries",
+      "phrases": [
+        "fries"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Blinkit.",
+      "phrases": [
+        "blinkit."
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Accounts",
+      "phrases": [
+        "account",
+        "accounts"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Cham",
+      "phrases": [
+        "cham",
+        "chap"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Heera",
+      "phrases": [
+        "heera"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Day",
+      "phrases": [
+        "day"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Girl",
+      "phrases": [
+        "girl"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Inconvenience",
+      "phrases": [
+        "inconvenience"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Chrges",
+      "phrases": [
+        "chrges"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "No.yet",
+      "phrases": [
+        "no.yet"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Idfc",
+      "phrases": [
+        "idfc"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Installingg",
+      "phrases": [
+        "install",
+        "installingg"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Iwsome",
+      "phrases": [
+        "iwsome"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Giving",
+      "phrases": [
+        "giving"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Bankrupt",
+      "phrases": [
+        "bankrupt"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "’ve",
+      "phrases": [
+        "’ve"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Lovers",
+      "phrases": [
+        "lovers"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Vipul",
+      "phrases": [
+        "vipul"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Coke",
+      "phrases": [
+        "coke"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Floor",
+      "phrases": [
+        "floor"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Sison",
+      "phrases": [
+        "sison"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Hariom",
+      "phrases": [
+        "hariom"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Multiple",
+      "phrases": [
+        "multiple"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Song",
+      "phrases": [
+        "song"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Phusi",
+      "phrases": [
+        "phusi"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Biju",
+      "phrases": [
+        "biju"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Valueable",
+      "phrases": [
+        "valueable"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "City",
+      "phrases": [
+        "city"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Wrk",
+      "phrases": [
+        "wrk"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Deta",
+      "phrases": [
+        "deta",
+        "dete"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Mis",
+      "phrases": [
+        "mis"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Alot",
+      "phrases": [
+        "alot"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Mulund",
+      "phrases": [
+        "mulund"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Sported",
+      "phrases": [
+        "sported"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Ghante",
+      "phrases": [
+        "ghante"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Looting",
+      "phrases": [
+        "looting"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Messy",
+      "phrases": [
+        "messy"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Ads",
+      "phrases": [
+        "ads"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Manga",
+      "phrases": [
+        "manga",
+        "mangao"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Dustbin",
+      "phrases": [
+        "dustbin"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Public",
+      "phrases": [
+        "public"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Pasta",
+      "phrases": [
+        "pasta"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Tanmay",
+      "phrases": [
+        "tanmay"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Roy",
+      "phrases": [
+        "roy"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Totally",
+      "phrases": [
+        "totally"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "West",
+      "phrases": [
+        "west"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Mishandled",
+      "phrases": [
+        "mishandled"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Prawns",
+      "phrases": [
+        "prawns"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Words",
+      "phrases": [
+        "words"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Nick",
+      "phrases": [
+        "nick"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Egg",
+      "phrases": [
+        "egg"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Pochur",
+      "phrases": [
+        "pochur"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Ground",
+      "phrases": [
+        "ground"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Insta",
+      "phrases": [
+        "insta"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Straight",
+      "phrases": [
+        "straight"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Edcgt",
+      "phrases": [
+        "edcgt"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Hope",
+      "phrases": [
+        "hope"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Mtf",
+      "phrases": [
+        "mtf"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Penalty",
+      "phrases": [
+        "penalty"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Raat",
+      "phrases": [
+        "raat"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Maths",
+      "phrases": [
+        "maths"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Adress",
+      "phrases": [
+        "adress"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Fill",
+      "phrases": [
+        "fill"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Starts",
+      "phrases": [
+        "starts"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Insane",
+      "phrases": [
+        "insane"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Blank",
+      "phrases": [
+        "blank"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Ache",
+      "phrases": [
+        "ache"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Dear",
+      "phrases": [
+        "dear"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "10:00",
+      "phrases": [
+        "10:00",
+        "10:50"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Driver",
+      "phrases": [
+        "driver"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Closed",
+      "phrases": [
+        "closed"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Training",
+      "phrases": [
+        "training"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Bots",
+      "phrases": [
+        "bots"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Chat",
+      "phrases": [
+        "chat"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Sathiii",
+      "phrases": [
+        "sathiii"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Laga",
+      "phrases": [
+        "laga",
+        "lagega"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Nights",
+      "phrases": [
+        "night",
+        "nights"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Details",
+      "phrases": [
+        "details"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Map",
+      "phrases": [
+        "map"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Selection",
+      "phrases": [
+        "selection"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Lapse",
+      "phrases": [
+        "lapse"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Sharif",
+      "phrases": [
+        "sharif"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Middle",
+      "phrases": [
+        "middle"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Budgut",
+      "phrases": [
+        "budgut"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Bittu",
+      "phrases": [
+        "bittu"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Menu",
+      "phrases": [
+        "menu"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Management",
+      "phrases": [
+        "management"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Changing",
+      "phrases": [
+        "change",
+        "changing"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Misguiding",
+      "phrases": [
+        "misguiding"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Home",
+      "phrases": [
+        "home"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Membership",
+      "phrases": [
+        "membership"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Verify",
+      "phrases": [
+        "verify"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Vinutha",
+      "phrases": [
+        "vinutha"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Bot",
+      "phrases": [
+        "bot"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Twist",
+      "phrases": [
+        "twist"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Chach",
+      "phrases": [
+        "chach"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Express",
+      "phrases": [
+        "express"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Suggest",
+      "phrases": [
+        "suggest"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Backwash",
+      "phrases": [
+        "backwash"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Assortment",
+      "phrases": [
+        "assortment"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Alternative",
+      "phrases": [
+        "alternative",
+        "alternatives"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Friend",
+      "phrases": [
+        "friend"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Ata",
+      "phrases": [
+        "ata"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Hyderabad",
+      "phrases": [
+        "hyderabad"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Whey",
+      "phrases": [
+        "whey"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Access",
+      "phrases": [
+        "access",
+        "accessible"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-02"
+    },
+    {
+      "topic": "Hua",
+      "phrases": [
+        "hua"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Explore",
+      "phrases": [
+        "explore"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Back",
+      "phrases": [
+        "back"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Sanam",
+      "phrases": [
+        "sanam"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Wrist",
+      "phrases": [
+        "wrist"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Dine",
+      "phrases": [
+        "dine"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Commodity",
+      "phrases": [
+        "commodity"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Correct",
+      "phrases": [
+        "correct"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Baby",
+      "phrases": [
+        "baby"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Uper",
+      "phrases": [
+        "uper"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Preference",
+      "phrases": [
+        "preference"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Mila",
+      "phrases": [
+        "mila"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Mainten",
+      "phrases": [
+        "mainten"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Excuse",
+      "phrases": [
+        "excuse"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-01"
+    },
+    {
+      "topic": "Alert",
+      "phrases": [
+        "alert"
+      ],
+      "total": 1,
+      "first_seen": "2025-09-03"
+    },
+    {
+      "topic": "Survive",
+      "phrases": [
+        "survive"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Capture",
+      "phrases": [
+        "capture"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Nahin",
+      "phrases": [
+        "nahin"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Wear",
+      "phrases": [
+        "wear"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-29"
+    },
+    {
+      "topic": "Simply",
+      "phrases": [
+        "simply"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-28"
+    },
+    {
+      "topic": "Mysore",
+      "phrases": [
+        "mysore"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Surub",
+      "phrases": [
+        "surub"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Mid",
+      "phrases": [
+        "mid"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-30"
+    },
+    {
+      "topic": "Deducted",
+      "phrases": [
+        "deducted"
+      ],
+      "total": 1,
+      "first_seen": "2025-08-31"
+    },
+    {
+      "topic": "Mode",
+      "phrases": [
+        "mode"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Nathing",
+      "phrases": [
+        "nathing"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Rascals",
+      "phrases": [
+        "rascals"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Afternoon",
+      "phrases": [
+        "afternoon"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bogas",
+      "phrases": [
+        "bogas"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Becareful",
+      "phrases": [
+        "becareful"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Lifetime.",
+      "phrases": [
+        "lifetime."
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Made",
+      "phrases": [
+        "made"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Idly",
+      "phrases": [
+        "idly"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Tikka",
+      "phrases": [
+        "tikka"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Salary",
+      "phrases": [
+        "salary"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Ltu",
+      "phrases": [
+        "ltu"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Damaged",
+      "phrases": [
+        "damaged"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Dubstep",
+      "phrases": [
+        "dubstep"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Squad",
+      "phrases": [
+        "squad"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Plates",
+      "phrases": [
+        "plates"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Technology",
+      "phrases": [
+        "technology"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Disabled",
+      "phrases": [
+        "disabled"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Burnt",
+      "phrases": [
+        "burnt"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bread",
+      "phrases": [
+        "bread"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Write",
+      "phrases": [
+        "write"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Heavy",
+      "phrases": [
+        "heavy"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Fed",
+      "phrases": [
+        "fed"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Family",
+      "phrases": [
+        "family"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Cream",
+      "phrases": [
+        "cream"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Happening",
+      "phrases": [
+        "happening"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Case",
+      "phrases": [
+        "case"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Farud",
+      "phrases": [
+        "farud"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Rest",
+      "phrases": [
+        "rest"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Lost",
+      "phrases": [
+        "lost"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Deliving",
+      "phrases": [
+        "deliving"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Stop",
+      "phrases": [
+        "stop"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Temporary",
+      "phrases": [
+        "temporary"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Worest",
+      "phrases": [
+        "worest"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Struck",
+      "phrases": [
+        "struck"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Guys",
+      "phrases": [
+        "guys"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Container",
+      "phrases": [
+        "container"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Blindly",
+      "phrases": [
+        "blindly"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Nornal",
+      "phrases": [
+        "nornal"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Latest",
+      "phrases": [
+        "latest"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Traped",
+      "phrases": [
+        "traped"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Missing",
+      "phrases": [
+        "missing"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Related",
+      "phrases": [
+        "related"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Grouping",
+      "phrases": [
+        "grouping"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Tired",
+      "phrases": [
+        "tired"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Terms",
+      "phrases": [
+        "terms"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "End",
+      "phrases": [
+        "end"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Tricks",
+      "phrases": [
+        "tricks"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Fooling",
+      "phrases": [
+        "fool",
+        "fooling"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Refused",
+      "phrases": [
+        "refused"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Shawarma",
+      "phrases": [
+        "shawarma"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Pak",
+      "phrases": [
+        "pak"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Cas",
+      "phrases": [
+        "cas"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Atleast",
+      "phrases": [
+        "atleast"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Executive",
+      "phrases": [
+        "executive"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Birthday",
+      "phrases": [
+        "birthday"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Patterns",
+      "phrases": [
+        "patterns"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Automatically",
+      "phrases": [
+        "automatically"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Click",
+      "phrases": [
+        "click"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bit",
+      "phrases": [
+        "bit"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Transport",
+      "phrases": [
+        "transport"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Tesaty",
+      "phrases": [
+        "tesaty"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Team",
+      "phrases": [
+        "team"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Shop",
+      "phrases": [
+        "shop"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Small",
+      "phrases": [
+        "larger",
+        "size",
+        "small"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Messages",
+      "phrases": [
+        "messages"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Proper",
+      "phrases": [
+        "proper"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Unnecessary",
+      "phrases": [
+        "unnecessary"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Cyclable",
+      "phrases": [
+        "cyclable"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Updated.",
+      "phrases": [
+        "updated",
+        "updated."
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Dist",
+      "phrases": [
+        "dist"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Taking",
+      "phrases": [
+        "taking"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Lead",
+      "phrases": [
+        "lead"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Mistake",
+      "phrases": [
+        "mistake"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Development",
+      "phrases": [
+        "development"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Medical",
+      "phrases": [
+        "medical"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Hours",
+      "phrases": [
+        "hour",
+        "hours",
+        "hours."
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Allowesd",
+      "phrases": [
+        "allowesd"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Grate",
+      "phrases": [
+        "grate"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Month",
+      "phrases": [
+        "month",
+        "months"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Inko",
+      "phrases": [
+        "inko"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bar",
+      "phrases": [
+        "bar"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Conversation",
+      "phrases": [
+        "conversation"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Initiated",
+      "phrases": [
+        "initiated"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Zepto",
+      "phrases": [
+        "zepto"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Gante",
+      "phrases": [
+        "gante"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Reno",
+      "phrases": [
+        "reno"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Partial",
+      "phrases": [
+        "partial"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Inside",
+      "phrases": [
+        "inside"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Layer",
+      "phrases": [
+        "layer"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Eligible",
+      "phrases": [
+        "eligible"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Orr",
+      "phrases": [
+        "orr"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Necessarily",
+      "phrases": [
+        "necessarily"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Mere",
+      "phrases": [
+        "mere"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Dismal",
+      "phrases": [
+        "dismal"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Pickup",
+      "phrases": [
+        "pickup"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Phone",
+      "phrases": [
+        "phone"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Consent",
+      "phrases": [
+        "consent"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Panchanan",
+      "phrases": [
+        "panchanan"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Replays",
+      "phrases": [
+        "replays"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Ruined",
+      "phrases": [
+        "ruined"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Stuck",
+      "phrases": [
+        "stuck"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Cake",
+      "phrases": [
+        "cake"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Estimates",
+      "phrases": [
+        "estimates"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Matter",
+      "phrases": [
+        "matter"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Vendors",
+      "phrases": [
+        "vendors"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Seen.",
+      "phrases": [
+        "seen."
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Cards",
+      "phrases": [
+        "card",
+        "cards"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Thugs",
+      "phrases": [
+        "thugs"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Peoples",
+      "phrases": [
+        "people",
+        "peoples"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Wrongly",
+      "phrases": [
+        "wrongly"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Ever.",
+      "phrases": [
+        "ever."
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Device",
+      "phrases": [
+        "device"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Hiring",
+      "phrases": [
+        "hiring"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Condition",
+      "phrases": [
+        "condition"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Brothers",
+      "phrases": [
+        "brothers"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "False",
+      "phrases": [
+        "false"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Rotten",
+      "phrases": [
+        "rotten"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Pehele",
+      "phrases": [
+        "pehele"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Literally",
+      "phrases": [
+        "literally"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Code",
+      "phrases": [
+        "code"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Agency",
+      "phrases": [
+        "agency"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Office",
+      "phrases": [
+        "office"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Standards",
+      "phrases": [
+        "standards"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Feels",
+      "phrases": [
+        "feel",
+        "feels"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Spilled",
+      "phrases": [
+        "spilled"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Match",
+      "phrases": [
+        "match"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Hide",
+      "phrases": [
+        "hide"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Completely",
+      "phrases": [
+        "completely"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Shameless",
+      "phrases": [
+        "shameless"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Mints",
+      "phrases": [
+        "mints"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Banate",
+      "phrases": [
+        "banate"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Store",
+      "phrases": [
+        "store"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Gift",
+      "phrases": [
+        "gift"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Aug",
+      "phrases": [
+        "aug",
+        "august"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Resolution",
+      "phrases": [
+        "resolution"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Fakest",
+      "phrases": [
+        "fakest"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Nova",
+      "phrases": [
+        "nova"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Picking",
+      "phrases": [
+        "picking"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Itna",
+      "phrases": [
+        "itna"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Left",
+      "phrases": [
+        "left"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Hart",
+      "phrases": [
+        "hart"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Cold",
+      "phrases": [
+        "cold"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Leaked",
+      "phrases": [
+        "leaked"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Cow",
+      "phrases": [
+        "cow"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Rude",
+      "phrases": [
+        "rude",
+        "rudely"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Truefarm",
+      "phrases": [
+        "truefarm"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Unkoo",
+      "phrases": [
+        "unkoo"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bola",
+      "phrases": [
+        "bola"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Maine",
+      "phrases": [
+        "maine"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Chill",
+      "phrases": [
+        "chill"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Thing",
+      "phrases": [
+        "thing"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Comedy",
+      "phrases": [
+        "comedy"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Thuggery",
+      "phrases": [
+        "thuggery"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Unsafe",
+      "phrases": [
+        "unsafe"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Faking",
+      "phrases": [
+        "faking"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Efforts",
+      "phrases": [
+        "efforts"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Feature",
+      "phrases": [
+        "feature"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Side",
+      "phrases": [
+        "side"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Report",
+      "phrases": [
+        "report"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Stone",
+      "phrases": [
+        "stone"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Dogs",
+      "phrases": [
+        "dogs"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Cut",
+      "phrases": [
+        "cut"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Blowing",
+      "phrases": [
+        "blowing"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Aligarh",
+      "phrases": [
+        "aligarh"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Unknown",
+      "phrases": [
+        "unknown"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Coastly",
+      "phrases": [
+        "coastly"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bother",
+      "phrases": [
+        "bother"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Ensure",
+      "phrases": [
+        "ensure"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Select",
+      "phrases": [
+        "select"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Banaye",
+      "phrases": [
+        "banaye"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Existent",
+      "phrases": [
+        "existent"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Everytime",
+      "phrases": [
+        "everytime"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Discipline",
+      "phrases": [
+        "discipline"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Reduce",
+      "phrases": [
+        "reduce"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Clarification",
+      "phrases": [
+        "clarification"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Solutions",
+      "phrases": [
+        "solutions"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Contact",
+      "phrases": [
+        "contact"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Reasonable",
+      "phrases": [
+        "reasonable"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Meter",
+      "phrases": [
+        "meter"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Appalling",
+      "phrases": [
+        "appalling"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Preparing",
+      "phrases": [
+        "preparing"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bye",
+      "phrases": [
+        "bye"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Join",
+      "phrases": [
+        "join"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Legal",
+      "phrases": [
+        "legal"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Noise",
+      "phrases": [
+        "noise"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Past",
+      "phrases": [
+        "past"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Whaen",
+      "phrases": [
+        "whaen"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Aur",
+      "phrases": [
+        "aur"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Activate",
+      "phrases": [
+        "activate"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Deos",
+      "phrases": [
+        "deos"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Restructured",
+      "phrases": [
+        "restructured"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Replacement",
+      "phrases": [
+        "replacement",
+        "replacements"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Detected",
+      "phrases": [
+        "detected"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Understanding",
+      "phrases": [
+        "understand",
+        "understanding"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Rerouting",
+      "phrases": [
+        "rerouting"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Visible",
+      "phrases": [
+        "visible"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Loyal",
+      "phrases": [
+        "loyal"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Buggy",
+      "phrases": [
+        "buggy"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Everyday",
+      "phrases": [
+        "everyday"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "World",
+      "phrases": [
+        "world"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Today",
+      "phrases": [
+        "today"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Year",
+      "phrases": [
+        "year",
+        "years"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Permanent",
+      "phrases": [
+        "permanent"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Consecutively",
+      "phrases": [
+        "consecutively"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bro",
+      "phrases": [
+        "bro"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Sympathy",
+      "phrases": [
+        "sympathy"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Strategies",
+      "phrases": [
+        "strategies"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Hui",
+      "phrases": [
+        "hui"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Assign",
+      "phrases": [
+        "assign"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Hrs",
+      "phrases": [
+        "hrs"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Lid",
+      "phrases": [
+        "lid"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Exploded",
+      "phrases": [
+        "exploded"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Constant",
+      "phrases": [
+        "constant"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Wht",
+      "phrases": [
+        "wht"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Aclohal",
+      "phrases": [
+        "aclohal"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Designed",
+      "phrases": [
+        "designed",
+        "well-designed"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Dumbo",
+      "phrases": [
+        "dumbo"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Duck",
+      "phrases": [
+        "duck"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Edit",
+      "phrases": [
+        "edit"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Control",
+      "phrases": [
+        "control"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Sleep",
+      "phrases": [
+        "sleep"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Plastic",
+      "phrases": [
+        "plastic"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Reflect",
+      "phrases": [
+        "reflect",
+        "reflecting"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Eta",
+      "phrases": [
+        "eta"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Types",
+      "phrases": [
+        "type",
+        "types"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Alternate",
+      "phrases": [
+        "alternate"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Method",
+      "phrases": [
+        "method"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Unmannered",
+      "phrases": [
+        "unmannered"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Gathering",
+      "phrases": [
+        "gathering"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Forbid",
+      "phrases": [
+        "forbid"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Mud",
+      "phrases": [
+        "mud"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Reason",
+      "phrases": [
+        "reason"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Find",
+      "phrases": [
+        "find",
+        "finding"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Varieties",
+      "phrases": [
+        "varieties"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Writy",
+      "phrases": [
+        "writy"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Mins",
+      "phrases": [
+        "min",
+        "mins"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Section",
+      "phrases": [
+        "section"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Accepting",
+      "phrases": [
+        "accept",
+        "accepting"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Health",
+      "phrases": [
+        "health"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Onwards",
+      "phrases": [
+        "onwards"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "India",
+      "phrases": [
+        "india"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bcs",
+      "phrases": [
+        "bcs"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "1:42",
+      "phrases": [
+        "1:42"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "User",
+      "phrases": [
+        "user"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Mai",
+      "phrases": [
+        "mai"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Quanitites",
+      "phrases": [
+        "quanitites"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Illiterate",
+      "phrases": [
+        "illiterate"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Care",
+      "phrases": [
+        "care"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Raising",
+      "phrases": [
+        "raised",
+        "raising"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Chor",
+      "phrases": [
+        "chor"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Quiting",
+      "phrases": [
+        "quiting"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Date",
+      "phrases": [
+        "date"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Robots",
+      "phrases": [
+        "robots"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Makes",
+      "phrases": [
+        "make",
+        "makes"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Level",
+      "phrases": [
+        "level",
+        "levels"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Asked",
+      "phrases": [
+        "asked"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Atrocious",
+      "phrases": [
+        "atrocious"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Heigh",
+      "phrases": [
+        "heigh"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Concern",
+      "phrases": [
+        "concern"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Rhe",
+      "phrases": [
+        "rhe"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Manhoos",
+      "phrases": [
+        "manhoos"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Exists",
+      "phrases": [
+        "exists"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Comi",
+      "phrases": [
+        "comi"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Insufficient",
+      "phrases": [
+        "insufficient"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Chain",
+      "phrases": [
+        "chain"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bhoot",
+      "phrases": [
+        "bhoot"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Dwarka",
+      "phrases": [
+        "dwarka"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Lengthy",
+      "phrases": [
+        "lengthy"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Black",
+      "phrases": [
+        "black"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Enforce",
+      "phrases": [
+        "enforce"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Promised",
+      "phrases": [
+        "promised"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bag",
+      "phrases": [
+        "bag"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Member",
+      "phrases": [
+        "member"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Customes",
+      "phrases": [
+        "customes"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Queries",
+      "phrases": [
+        "queries"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Wangs",
+      "phrases": [
+        "wangs"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Fantasy",
+      "phrases": [
+        "fantasy"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Urgent",
+      "phrases": [
+        "urgent"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Handling",
+      "phrases": [
+        "handling"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Detection",
+      "phrases": [
+        "detection"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Chaiye",
+      "phrases": [
+        "chaiye"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Mannerless",
+      "phrases": [
+        "mannerless"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Pas",
+      "phrases": [
+        "pas"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Cheeliza",
+      "phrases": [
+        "cheeliza"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Pkt",
+      "phrases": [
+        "pkt"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Forum",
+      "phrases": [
+        "forum"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Shows",
+      "phrases": [
+        "shows"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Random",
+      "phrases": [
+        "random"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Expected",
+      "phrases": [
+        "expected"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Junction",
+      "phrases": [
+        "junction"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Iam",
+      "phrases": [
+        "iam"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Point",
+      "phrases": [
+        "point"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Clients",
+      "phrases": [
+        "clients"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Happened",
+      "phrases": [
+        "happened"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bahat",
+      "phrases": [
+        "bahat"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Swift",
+      "phrases": [
+        "swift"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Emergencies",
+      "phrases": [
+        "emergencies"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Bcoz",
+      "phrases": [
+        "bcoz"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Packets",
+      "phrases": [
+        "packets"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Specially",
+      "phrases": [
+        "specially"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Season",
+      "phrases": [
+        "season"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "System",
+      "phrases": [
+        "system"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Maintained",
+      "phrases": [
+        "maintained"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Listen",
+      "phrases": [
+        "listen"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Lekin",
+      "phrases": [
+        "lekin"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Dineout",
+      "phrases": [
+        "dineout"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Door",
+      "phrases": [
+        "door"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Page",
+      "phrases": [
+        "page"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Reustorent",
+      "phrases": [
+        "reustorent"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Blind",
+      "phrases": [
+        "blind"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Faced",
+      "phrases": [
+        "faced"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Background",
+      "phrases": [
+        "background"
+      ],
+      "total": 0,
+      "first_seen": null
+    },
+    {
+      "topic": "Expect",
+      "phrases": [
+        "expect"
+      ],
+      "total": 0,
+      "first_seen": null
+    }
+  ]
+}
