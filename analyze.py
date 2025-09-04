@@ -200,7 +200,7 @@ class ConsolidationAgent:
         embs = emb_model.encode(phrases)
         # Distance = 1 - cosine similarity
         dist = 1 - (embs @ embs.T)
-        # ✅ sklearn ≥1.4: use metric="precomputed" (affinity was removed)
+        # sklearn ≥1.4: use metric="precomputed" (affinity was removed)
         clus = AgglomerativeClustering(
             n_clusters=None,
             metric="precomputed",
@@ -326,20 +326,24 @@ class TrendEngine:
         zeros = [t for t in order if totals[t] == 0]
         counts = counts.loc[non_zero + zeros]
 
-        # Prepare metadata
-        meta = {
+        # 6) Metadata (always populated, even if clustering found no phrases)
+        meta: Dict[str, Any] = {
             "target_date": to_date,
             "window_start": from_date,
-            "topics": [
-                {
-                    "topic": t,
-                    "phrases": sorted(list(topic_to_members.get(t, [])))[:20],
-                    "total": int(totals.get(t, 0)),
-                    "first_seen": next((c for c in counts.columns if counts.at[t, c] > 0), None)
-                }
-                for t in counts.index
-            ]
+            "topics": []
         }
+        for t in counts.index:
+            phrases = sorted(list(topic_to_members.get(t, [])))[:20]
+            if not phrases:
+                # Fallback so JSON is never empty and each topic has at least a label
+                phrases = [t]
+            meta["topics"].append({
+                "topic": t,
+                "phrases": phrases,
+                "total": int(totals.get(t, 0)),
+                "first_seen": next((c for c in counts.columns if counts.at[t, c] > 0), None)
+            })
+
         return counts, meta
 
 def save_outputs(counts: pd.DataFrame, meta: Dict[str, Any], target_date: str,
@@ -347,13 +351,40 @@ def save_outputs(counts: pd.DataFrame, meta: Dict[str, Any], target_date: str,
     if counts.empty:
         print("⚠️ Empty counts; nothing to save.")
         return
+
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(results_dir, exist_ok=True)
 
+    # Rebuild meta["topics"] from counts if missing/empty, so JSON is never empty
+    safe_meta = meta if isinstance(meta, dict) else {}
+    topics_list = (safe_meta.get("topics") or [])
+
+    if not topics_list:
+        totals = counts.sum(axis=1)
+        rebuilt = []
+        for t in counts.index:
+            # First date with a non-zero count for this topic
+            first_seen = next((c for c in counts.columns if counts.at[t, c] > 0), None)
+            rebuilt.append({
+                "topic": t,
+                "phrases": [t],  # fallback phrase = topic itself
+                "total": int(totals.get(t, 0)),
+                "first_seen": first_seen
+            })
+        safe_meta = {
+            "target_date": target_date,
+            "window_start": counts.columns[0] if len(counts.columns) else None,
+            "topics": rebuilt
+        }
+        print(f"ℹ️ Rebuilt topics metadata from counts: {len(rebuilt)} topics")
+
+    # Write CSV + JSON
     csv_path = os.path.join(output_dir, f"report_{target_date}.csv")
     counts.to_csv(csv_path)
+
     json_path = os.path.join(results_dir, f"topics_{target_date}.json")
     with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(meta, f, ensure_ascii=False, indent=2)
+        json.dump(safe_meta, f, ensure_ascii=False, indent=2)
+
     print(f"✅ Saved report CSV: {csv_path}")
-    print(f"✅ Saved topics JSON: {json_path}")
+    print(f"✅ Saved topics JSON: {json_path} ({len(safe_meta.get('topics', []))} topics)")

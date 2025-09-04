@@ -384,7 +384,9 @@
     },
     {
       "topic": "Delivery partner rude",
-      "phrases": [],
+      "phrases": [
+        "Delivery partner rude"
+      ],
       "total": 94,
       "first_seen": "2025-08-28"
     },
@@ -953,7 +955,9 @@
     },
     {
       "topic": "Bring back 10 minute bolt delivery",
-      "phrases": [],
+      "phrases": [
+        "Bring back 10 minute bolt delivery"
+      ],
       "total": 24,
       "first_seen": "2025-08-28"
     },
@@ -1942,7 +1946,9 @@
     },
     {
       "topic": "Food stale",
-      "phrases": [],
+      "phrases": [
+        "Food stale"
+      ],
       "total": 7,
       "first_seen": "2025-08-28"
     },
@@ -5827,7 +5833,9 @@
     },
     {
       "topic": "Maps not working properly",
-      "phrases": [],
+      "phrases": [
+        "Maps not working properly"
+      ],
       "total": 1,
       "first_seen": "2025-08-31"
     },
@@ -5841,7 +5849,9 @@
     },
     {
       "topic": "Instamart should be open all night",
-      "phrases": [],
+      "phrases": [
+        "Instamart should be open all night"
+      ],
       "total": 1,
       "first_seen": "2025-09-01"
     },
